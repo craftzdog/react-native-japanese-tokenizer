@@ -77,7 +77,7 @@ Also check out [the test](https://github.com/craftzdog/react-native-japanese-tok
 
 ## License
 
-MIT License. By Takuya Matsuyama (@craftzdog).
+MIT License. By Takuya Matsuyama ([@craftzdog](https://twitter.com/craftzdog)).
 
 Note that this module is based on following libraries with respective license. Thank you for the fantastic works!
 
