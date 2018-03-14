@@ -8,7 +8,7 @@ react-native init SQLite2Test
 cd SQLite2Test
 ```
 
-2. Install `react-native-sqlite-2` by following instructions on its README.
+2. Install `react-native-japanese-tokenizer` by following instructions on its README.
 3. Change `index.ios.js` and `index.android.js` to:
 
 ```javascript
