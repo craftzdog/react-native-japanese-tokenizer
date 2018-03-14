@@ -1,0 +1,27 @@
+{
+  "name": "react-native-japanese-tokenizer",
+  "version": "1.5.2",
+  "description": "Async Japanese Tokenizer Native Plugin for React Native for iOS and Android",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/craftzdog/react-native-japanese-tokenizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/craftzdog/react-native-japanese-tokenizer/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "pouchdb"
+  ],
+  "author": "Takuya Matsuyama <hi@craftz.dog>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">= 0.47.0"
+  },
+  "dependencies": {
+  }
+}
