@@ -8,25 +8,8 @@
 {
     return dispatch_queue_create("dog.craftz.japanese-tokenizer", DISPATCH_QUEUE_SERIAL);
 }
+
 RCT_EXPORT_MODULE()
-
-- (id) init
-{
-  self = [super init];
-  if (self!=nil) {
-    [self pluginInitialize];
-  }
-  return self;
-}
-
--(void)pluginInitialize {
-  logDebug(@"pluginInitialize()");
-}
-
--(NSString*) getDatabaseDir {
-  NSString *libDir = [NSSearchPathForDirectoriesInDomains(NSLibraryDirectory, NSUserDomainMask, YES) objectAtIndex: 0];
-  return [libDir stringByAppendingPathComponent:@"NoCloud"];
-}
 
 RCT_EXPORT_METHOD(tokenize:(NSString *)string
                   resolver:(RCTPromiseResolveBlock)resolve
