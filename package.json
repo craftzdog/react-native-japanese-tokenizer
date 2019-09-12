@@ -1,6 +1,6 @@
 {
   "name": "react-native-japanese-tokenizer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Async Japanese Tokenizer Native Plugin for React Native for iOS and Android",
   "main": "index.js",
   "homepage": "https://github.com/craftzdog/react-native-japanese-tokenizer",
