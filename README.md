@@ -1,3 +1,5 @@
+
+
 # react-native-japanese-tokenizer
 
 Async Japanese tokenizer native plugin for React Native that works on iOS and Android.
@@ -16,6 +18,8 @@ It utilizes [`CFStringTokenizer`](https://developer.apple.com/documentation/core
 The implementation is based on [TinySegmenter](http://chasen.org/~taku/software/TinySegmenter/). It is lightweight word segmenter which works without dictionaries.
 
 ## Getting started
+
+Requires React Native `0.47.0` or later.
 
 ```shell
 $ npm install react-native-japanese-tokenizer --save
